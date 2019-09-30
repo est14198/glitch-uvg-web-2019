@@ -13,8 +13,7 @@ code {
     monospace;
 }
 
-
-.mainLogo{
+.mainLogo {
     width: 205px;
     height: 200px;
     display: block;
@@ -22,12 +21,12 @@ code {
     margin: 0 auto;
 }
 
-.Container{
+.Container {
   display: flex;
   justify-content: center;
 }
 
-.mainLogo ~ .tag{
+.mainLogo ~ .tag {
   position: relative;
   padding: 0 12px;
   font-weight: 600;
@@ -42,6 +41,7 @@ code {
   -o-transition: opacity 1s ease-in-out;
   transition: opacity 1s ease-in-out;
 }
+
 .mainLogo:hover ~ .tag {
   zoom: 1;
   filter: alpha(opacity=0);
