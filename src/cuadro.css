@@ -1,4 +1,4 @@
-.cuadro{
+.cuadro {
     position: absolute;
     margin: 0 auto;
     top: 100px;
@@ -12,13 +12,11 @@
     right: 2%;
 }
 
-.imagen{
+.imagen {
     height: 80.2px;
 }
 
-
-
-.imagenRobot{
+.imagenRobot {
     position: relative;
     left: 10px;
     bottom: 60px;
