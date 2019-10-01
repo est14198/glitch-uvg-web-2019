@@ -7,7 +7,7 @@
   height: 25%;
 }
 
-.slideContainer h1{
+.slideContainer h1 {
   color: #fff;
   font-size: 40px;
   margin-bottom: 15px;
@@ -17,7 +17,7 @@
   margin: 1.5em auto 0.5em auto;
 }
 
-.slideContainer h2{
+.slideContainer h2 {
   color: #fff;
   padding-top: .25em;
   padding-bottom: .25em;
@@ -28,7 +28,7 @@
   margin:0 auto;
 }
 
-.slideContainer button{
+.slideContainer button {
   margin-top: 25px;
   padding: 12px 16px;
   color: #fff;
@@ -44,7 +44,6 @@
   cursor: pointer;
   border: 0;
 }
-
 
 .slideContainer button:hover {
   background: rgba(0,0,0,0.6);
