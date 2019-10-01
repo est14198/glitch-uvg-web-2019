@@ -22,7 +22,7 @@ export default class ScrollButton extends Component {
 
   render() {
     return (
-      <div className="button">
+      <div className="button" role="button" tabIndex="0" onClick={this.click} onKeyDown={this.handleKeyDown}>
         <div className="arrow" />
       </div>
     );
